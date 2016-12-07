@@ -16,7 +16,7 @@ public class NPCController : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		textBox.transform.position = new Vector3 (transform.position.x, transform.position.y + 2f, transform.position.z);
+		textBox.transform.position = new Vector3 (transform.position.x, transform.position.y + 3f, transform.position.z);
 	
 	}
 
